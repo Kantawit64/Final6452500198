@@ -14,7 +14,7 @@ from std_msgs.msg import String
 
 frame = Tk()
 frame.title("REMOTE")
-frame.geometry("300x300")
+frame.geometry("250x300")
 
 
 
